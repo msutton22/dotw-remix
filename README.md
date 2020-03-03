@@ -1,4 +1,4 @@
-#HTML and CSS Collage Remix - Assignment 4
+# HTML and CSS Collage Remix - Assignment 4
 
 ## Version Control and Collaboration :computer: :art:
 
